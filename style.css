@@ -191,7 +191,7 @@ section .title::after {
 /* home section styling */
 .home {
     display: flex;
-    background: url("mefolder/algobanner1.jpg") no-repeat center;
+    background: url("Background/algobanner1.jpg") no-repeat center;
     height: 100vh;
     color: #ffffff;
     min-height: 500px;
